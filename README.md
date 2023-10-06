@@ -1,2 +1,2 @@
-# PatchNodes-sv
-Projeto web para patch nodes de um servidor de Minecraft 
+# PatchNotes-sv
+Projeto web para patch notes de um servidor de Minecraft 
