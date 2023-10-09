@@ -1,5 +1,6 @@
 import Image from "next/image";
 import Link from "next/link";
+
 export default function create() {
   return (
     <div className="flex justify-between p-4 bg-white">
@@ -18,7 +19,7 @@ export default function create() {
         </Link>
         <Link
           className="font-bold text-indigo-600 transition place-self-center hover:text-indigo-800"
-          href="../components/patches"
+          href="/patches"
         >
           Patches
         </Link>
